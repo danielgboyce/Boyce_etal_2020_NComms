@@ -1,5 +1,4 @@
-# Boyce_etal_2020_NComms
-Reproducible code for **Future ocean biomass losses may widen socioeconomic equity gaps** by Boyce et al. 2020 in Nature Communications**
+Reproducible code for **Future ocean biomass losses may widen socioeconomic equity gaps** by Boyce et al. 2020 in Nature Communications
  
 Note: the analyses in this study were undertaken on a very large data set (~88 GB) and were therefore performed on a supercomputing cluster with the required computing capacity and took several days to run to completion. As such, the code and data used to analyze the data could not be provided in its entirety. Instead, a reduced subset of the data and code were submitted to demonstrate how the analyses were undertaken. The code to analyze this reduced data is the same as that which was used for the full dataset.
 

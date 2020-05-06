@@ -1,5 +1,4 @@
-# Boyce_etal_2020_NComms
-Analysis code for **Future ocean biomass losses may widen socioeconomic equity gaps** by Boyce et al. 2020 in Nature Communications**
+Analysis code for **Future ocean biomass losses may widen socioeconomic equity gaps** by Boyce et al. 2020 in Nature Communications
  
 The reproducible example contains a sample data set and code to implement the statistical analyses and should run on any computer. 
 
